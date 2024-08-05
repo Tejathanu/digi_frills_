@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Moonwalk:wght@400;700&display=swap');
+ 
+ 
+ @import url('https://fonts.googleapis.com/css2?family=Playwrite+AR:wght@100..400&display=swap');
+
+/* fonts.css */
+@import url('https://fonts.googleapis.com/css2?family=Asen+Pro:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Asen+Pro:wght@400;500;600;700&display=swap');
+
+.font-asenPro {
+  font-family: 'Asen Pro', sans-serif;
+}
+
+.raine-container {
+  position: absolute;
+  top: calc(random(100) * 1%);
+  left: calc(random(100) * 1%);
+}
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
